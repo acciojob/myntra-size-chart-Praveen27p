@@ -1,2 +1,30 @@
-
+ table,th,td
+    {
+      border:2px solid black;
+    }
+    table
+    {
+      border-collapse:collapse;
+      width:100%;
+    }
+	th{
+		text-align: left;
+	}
+	tr{
+		text-align: right;
+	}
+.color1{
+	background-color:#d0574e;
+	color:white;
+}
+.color2{
+	background-color:#d49792;
+	color:white;
+}
+.color3{
+	background-color:#FFF1F5;
+}
+.color4{
+	background-color:#919B97;
+}
 /* Your CSS Code here. */
